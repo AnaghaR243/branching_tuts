@@ -1,1 +1,1 @@
-this is the version 1 of the master branch
+this is the version 1 of the master branch but also contains navigation
